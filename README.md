@@ -21,7 +21,7 @@
   <img align="center" alt="Lucas-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
   <img align="center" alt="Lucas-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Lucas-Vccode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/965066624556232737/965075058550784020/download20220406231915.png?width=676&height=676">
+  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/965066624556232737/965086468836065290/picasion.com_7ad88379a5a571d6344be35cb3b76643.gif?width=676&height=676">
 </div>
   
   ##
