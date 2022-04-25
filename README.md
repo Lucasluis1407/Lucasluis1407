@@ -6,6 +6,7 @@
 - Estou cursando de Sistemas de Informação da Universidade Federal de Pernambuco
 - Minha principal tecnologia atualmente é python e estou me dedicando e estudando muito para desenvolver minhas habilidades e alcançar o nível avançado e profissional
 - Futuramente iniciarei meus estudos de desenvolvimento web
+- Possuo inglês de nivel básico a intermediário
 
  ##
 
