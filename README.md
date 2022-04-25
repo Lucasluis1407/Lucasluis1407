@@ -1,10 +1,11 @@
-## Hi, I'm Lucas Luis
-- I'm 17 years old
-- I'm passionate about technology
-- I live in Brazil
-- I'm a programming student
-- I am in the Information Systems course at the Federal University of Pernambuco
-- My main technology is currently python and I'm dedicating myself a lot to develop my skills and reach the advanced and professional level
+## Olá, eu sou Lucas Luis
+- tenho 17 anos
+- Sou apaixonado por tecnologia
+- Eu moro no Brasil
+- Sou estudante de programação
+- Estou cursando de Sistemas de Informação da Universidade Federal de Pernambuco
+- Minha principal tecnologia atualmente é python e estou me dedicando e estudando muito para desenvolver minhas habilidades e alcançar o nível avançado e profissional
+- Futuramente iniciarei meus estudos de desenvolvimento web
 
  ##
 
