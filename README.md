@@ -7,8 +7,7 @@
 - Minha principal tecnologia atualmente é Python e estou me dedicando e estudando muito para desenvolver minhas habilidades e alcançar o nível avançado e profissional
 - Futuramente iniciarei meus estudos de desenvolvimento web
 - Possuo inglês de nivel básico a intermediário
-- Meu site onde conto mais sobre mim e exponho meus projetos: https://lucasluis1407.github.io/  
-(Obs: o site ainda está simplista mais conforme eu for adquirindo conhecimento irei melhorando o mesmo)
+- Meu projeto pessoal de website onde conto mais sobre mim e exponho meus projetos: https://lucasluis1407.github.io/  
 
  ##
 
