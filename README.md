@@ -1,4 +1,4 @@
-## Olá, eu sou Lucas Luis
+## Olá, eu sou Lucas Luis 👋
 - tenho 17 anos
 - Sou apaixonado por tecnologia
 - Eu moro no Brasil
