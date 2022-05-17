@@ -1,13 +1,12 @@
-## Olá, eu sou Lucas Luis 👋
+# Olá 👋, eu sou Lucas Luis
 - tenho 17 anos
 - Sou apaixonado por tecnologia
 - Eu moro no Brasil
 - Sou estudante de programação
+- Atualmente estou estudando a linguagem python e também  as linguagens de desenvolvimento web. 
 - Estou cursando de Sistemas de Informação da Universidade Federal de Pernambuco
-- Minha principal tecnologia atualmente é Python e estou me dedicando e estudando muito para desenvolver minhas habilidades e alcançar o nível avançado e profissional
-- Futuramente iniciarei meus estudos de desenvolvimento web
 - Possuo inglês de nivel básico a intermediário
-- Meu projeto pessoal de website onde conto mais sobre mim e exponho meus projetos: https://lucasluis1407.github.io/  
+- Link para meu projeto pessoal de pádina web portfólio onde conto mais sobre mim e exponho meus projetos: https://lucasluis1407.github.io/  
 
  ##
 
