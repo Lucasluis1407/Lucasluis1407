@@ -5,6 +5,7 @@
 - tenho 17 anos
 - Sou apaixonado por tecnologia
 - Eu moro no Brasil
+- Sou apaixonado por tecnologia e estou dedicado a me desenvolver cada dia mais como desenvolvedor 
 - Sou estudante de programação
 - Atualmente estou estudando a linguagem python e também  as linguagens de desenvolvimento web. 
 - Estou cursando de Sistemas de Informação da Universidade Federal de Pernambuco
