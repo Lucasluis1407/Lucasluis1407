@@ -1,6 +1,6 @@
 # Olá <img width="40" src="https://www.emojiall.com/images/animations/joypixels/64px/waving_hand.gif" >, eu sou Lucas Luis
 
-<img  align="right" width="280" style="position: absolute; " src="https://cdn.discordapp.com/attachments/965066624556232737/965086468836065290/picasion.com_7ad88379a5a571d6344be35cb3b76643.gif">
+<img  align="right" width="260" style="position: absolute; " src="https://cdn.discordapp.com/attachments/965066624556232737/965086468836065290/picasion.com_7ad88379a5a571d6344be35cb3b76643.gif">
 
 - tenho 17 anos
 - Sou apaixonado por tecnologia
